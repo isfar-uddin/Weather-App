@@ -3,6 +3,6 @@ Learn NodeJS.
 
 #installation instruction
 
-run npm install in the root directory.
-run node app.js --help in the root directory to know the command to be executable.
+Run 'npm install' in the command in the root directory.
+Then run 'node app.js --help' in the root directory to know the command to be executable.
 
